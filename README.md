@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryanmurray3
+- 👋 Hi, I’m Ryan
 <a href="https://app.daily.dev/ryanmurray3"><img src="https://api.daily.dev/devcards/8ae60bb20add4974817e62fb54daf5e0.png?r=wm3" width="400" alt="Ryan Murray's Dev Card"/></a>
 
 ## Front End & JavaScript
